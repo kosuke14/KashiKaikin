@@ -549,6 +549,18 @@ var site_infomations = [
         }
     }
 
+,   { // ■ [歌詞リリ](https://www.lyrical-nonsense.com/)
+        reg_url : '^https://(www\.)?lyrical-nonsense\.com/lyrics/.*'
+    ,   sample_url : 'https://www.lyrical-nonsense.com/lyrics/remioromen/konayuki/'
+    ,   options : {
+            jquery : true
+        }
+    ,   main : function(w, d, global_options, options) {
+            $('.olyrictext, .olyrictext-tv').off("contextmenu");
+            $('.olyrictext, .olyrictext-tv').css( global_options.CSS_ENABLE_SELECTION );
+        }
+    }
+
 /* // 雛形
 ,   { // ■
         reg_url : ''
