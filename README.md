@@ -1,5 +1,5 @@
 # [KashiKaikin X](https://github.com/kosuke14/KashiKaikin)
-[KashiKaikin](https://github.com/furyutei/KashiKaikin) のフォークです。
+> [KashiKaikin](https://github.com/furyutei/KashiKaikin) のフォークです。
 ======================================================
 【歌詞解禁】 歌詞検索サービスの歌詞テキストコピーを可能に  
 - License: The MIT license  
@@ -49,7 +49,7 @@
 - [KKBOX - 1ヶ月無料で楽しめる聴き放題音楽アプリ - KKBOX](https://www.kkbox.com/jp/ja/)
 - [AZLyrics - Song Lyrics from A to Z](https://www.azlyrics.com/)
 - [歌詞リリ](https://lyrical-nonsense.com/)
-このほかに対応してほしいサービスがあったり、いずれかのサービスで動作しなくなった場合には、遠慮なく[Issues](https://github.com/kosuke14/KashiKaikin/issues)でお申立てください。
+> このほかに対応してほしいサービスがあったり、いずれかのサービスで動作しなくなった場合には、遠慮なく[Issues](https://github.com/kosuke14/KashiKaikin/issues)でお申立てください。
 
 ■ 関連記事
 ---
