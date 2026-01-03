@@ -1,9 +1,10 @@
-[KashiKaikin](https://github.com/furyutei/KashiKaikin)
+# [KashiKaikin X](https://github.com/kosuke14/KashiKaikin)
+[KashiKaikin](https://github.com/furyutei/KashiKaikin) のフォークです。
 ======================================================
 【歌詞解禁】 歌詞検索サービスの歌詞テキストコピーを可能に  
 - License: The MIT license  
-- Copyright (c) 2015 風柳(furyu)  
-- 対象ブラウザ： Firefox（[Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)が必要）、Google Chrome（[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)が必要）(※いずれも PC 版のみ)  
+- Copyright (c) 2026 sukru (c) 2015 風柳(furyu)  
+- 対象ブラウザ： Firefox（[Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)が必要）、Google Chrome（[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)が必要）(※その他、ユーザースクリプトが動作する環境であれば動作可能)
 
 
 ■ 歌詞解禁（KashiKaikin）とは？
@@ -31,17 +32,13 @@
 ---
 対応しているサービスにて歌詞を表示すると、歌詞テキストが選択・コピー可能となります。  
 
-※ 2022.02.05 現在の対応サービス  
+※ 2026.01.03 現在の対応サービス
 - [歌詞検索サービス　歌ネット](http://www.uta-net.com/)  
-- [うたまっぷ 歌詞を無料で検索表示](http://www.utamap.com/)  
-- [歌詞検索サービス 歌詞ＧＥＴ](http://www.kget.jp/)  
 - [歌詞ナビ 無料歌詞検索サービス](http://kashinavi.com/)  
 - [歌詞検索J-Lyric.net](http://j-lyric.net/)  
 - [カラオケ・うたスキ・歌詞検索｜JOYSOUND.com](https://www.joysound.com/web/)  
 - [コード譜と歌詞の無料検索サービス！ J-Total Music](http://music.j-total.net/)  
-- [UtaTen 無料歌詞検索サイトの決定版！うたてん](http://utaten.com/)  
-- <del>[歌詞タイム](http://www.kasi-time.com/)</del>  
-- <del>[歌詞サーチ 視聴や動画が見られる無料歌詞検索サービス](http://kashisearch.jp/)</del>  
+- [UtaTen 無料歌詞検索サイトの決定版！うたてん](http://utaten.com/)
 - [無料国内最大級の歌詞/コード検索サイト｜楽器.me](http://gakufu.gakki.me/)
 - [プチリリ - 歌詞投稿コミュニティ](http://petitlyrics.com/)
 - [musiXmatch - 世界最大の歌詞カタログ](https://www.musixmatch.com/ja)
@@ -51,8 +48,10 @@
 - [ORICON NEWS｜最新情報を発信する総合トレンドメディア](https://www.oricon.co.jp/)
 - [KKBOX - 1ヶ月無料で楽しめる聴き放題音楽アプリ - KKBOX](https://www.kkbox.com/jp/ja/)
 - [AZLyrics - Song Lyrics from A to Z](https://www.azlyrics.com/)
+- [歌詞リリ](https://lyrical-nonsense.com/)
+このほかに対応してほしいサービスがあったり、いずれかのサービスで動作しなくなった場合には、遠慮なく[Issues](https://github.com/kosuke14/KashiKaikin/issues)でお申立てください。
 
 ■ 関連記事
 ---
-- [歌詞検索サービスの歌詞(テキスト)コピー禁止手法について調べてみた - 風柳メモ](http://d.hatena.ne.jp/furyu-tei/20150706/1436182102)  
+- [歌詞検索サービスの歌詞(テキスト)コピー禁止手法について調べてみた - 風柳メモ](http://d.hatena.ne.jp/furyu-tei/20150706/1436182102)
 
