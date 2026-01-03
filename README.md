@@ -22,7 +22,7 @@
 ---
 [Tampermonkey](http://tampermonkey.net/)を入れたブラウザで、  
 
-> [KashiKaikin.user.js](https://furyutei.github.io/KashiKaikin/src/js/KashiKaikin.user.js)  
+> [KashiKaikin.user.js](https://kosuke14.github.io/KashiKaikin/src/js/KashiKaikin.user.js)  
 
 をクリックし、指示に従ってインストール。  
 
