@@ -550,7 +550,7 @@ var site_infomations = [
     }
 
 ,   { // ■ [歌詞リリ](https://www.lyrical-nonsense.com/)
-        reg_url : '^https://(www\.)?lyrical-nonsense\.com/lyrics/.*'
+        reg_url : '^https://(www\.)?lyrical-nonsense\.com/(global/)?lyrics/.*'
     ,   sample_url : 'https://www.lyrical-nonsense.com/lyrics/remioromen/konayuki/'
     ,   options : {
             jquery : true
