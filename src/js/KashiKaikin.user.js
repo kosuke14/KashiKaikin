@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name            KashiKaikin
+// @name            KashiKaikin X
 // @namespace       http://d.hatena.ne.jp/furyu-tei
-// @author          furyu
-// @version         0.1.0.20
+// @author          furyu, kosuke14
+// @version         0.1.0.21
 // @include         http://*
 // @include         https://*
 // @description     歌詞検索サイトの歌詞テキストをコピー可能にする
@@ -10,9 +10,35 @@
 // @license         MIT
 // @compatible      chrome
 // @compatible      firefox
-// @supportURL      https://github.com/furyutei/KashiKaikin/issues
+// @updateURL       https://github.com/kosuke14/KashiKaikin/raw/master/src/js/KashiKaikin.user.js
+// @downloadURL     https://github.com/kosuke14/KashiKaikin/raw/master/src/js/KashiKaikin.user.js
+// @supportURL      https://github.com/kosuke14/KashiKaikin/issues
 // @contributionURL https://memo.furyutei.work/about#send_donation
 // ==/UserScript==
+
+/*
+The MIT License (MIT)
+
+Copyright (c) 2026 sukru <admin@sukru.top>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
 
 /*
 The MIT License (MIT)
