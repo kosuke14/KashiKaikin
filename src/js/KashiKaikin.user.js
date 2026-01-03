@@ -5,7 +5,7 @@
 // @version         0.1.0.21
 // @include         http://*
 // @include         https://*
-// @description     歌詞検索サイトの歌詞テキストをコピー可能にする
+// @description     歌詞検索サイトの歌詞テキストをコピー可能にする。furyuteiさんのKashiKaikinのフォークです。
 // @grant           none
 // @license         MIT
 // @compatible      chrome
