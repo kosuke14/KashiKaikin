@@ -561,6 +561,18 @@ var site_infomations = [
         }
     }
 
+,   { // ■ [utatime](https://www.utatime.com/)
+        reg_url : '^https://(www\.)?utatime\.com/(global/)?lyrics/.*'
+    ,   sample_url : 'https://www.utatime.com/lyrics/remioromen/konayuki/'
+    ,   options : {
+            jquery : true
+        }
+    ,   main : function(w, d, global_options, options) {
+            $('.olyrictext, .olyrictext-tv').off("contextmenu");
+            $('.olyrictext, .olyrictext-tv').css( global_options.CSS_ENABLE_SELECTION );
+        }
+    }
+
 /* // 雛形
 ,   { // ■
         reg_url : ''
