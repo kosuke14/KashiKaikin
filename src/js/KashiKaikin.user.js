@@ -2,7 +2,7 @@
 // @name            KashiKaikin X
 // @namespace       http://d.hatena.ne.jp/furyu-tei
 // @author          furyu, kosuke14
-// @version         0.1.0.21
+// @version         0.1.0.22
 // @include         http://*
 // @include         https://*
 // @description     歌詞検索サイトの歌詞テキストをコピー可能にする。furyuteiさんのKashiKaikinのフォークです。
@@ -578,6 +578,18 @@ var site_infomations = [
 ,   { // ■ [歌詞リリ](https://www.lyrical-nonsense.com/)
         reg_url : '^https://(www\.)?lyrical-nonsense\.com/(global/)?lyrics/.*'
     ,   sample_url : 'https://www.lyrical-nonsense.com/lyrics/remioromen/konayuki/'
+    ,   options : {
+            jquery : true
+        }
+    ,   main : function(w, d, global_options, options) {
+            $('.olyrictext, .olyrictext-tv').off("contextmenu");
+            $('.olyrictext, .olyrictext-tv').css( global_options.CSS_ENABLE_SELECTION );
+        }
+    }
+
+,   { // ■ [utatime](https://www.utatime.com/)
+        reg_url : '^https://(www\.)?utatime\.com/(global/)?lyrics/.*'
+    ,   sample_url : 'https://www.utatime.com/lyrics/remioromen/konayuki/'
     ,   options : {
             jquery : true
         }
